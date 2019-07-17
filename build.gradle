@@ -25,6 +25,9 @@ dependencies {
 	compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
 	// https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
 	compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.14.0'
+	// https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
+	compile group: 'javax.xml.bind', name: 'jaxb-api', version: '2.3.1'
+	
 
     // Declare the dependency for your favourite test framework you want to use in your tests.
     // TestNG is also supported by the Gradle Test task. Just change the
